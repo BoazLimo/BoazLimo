@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoazLimo
-- 👀 I’m interested in ...Computer programming 
+- 👀 I’m interested in ... back end programming, javascript 
 - 🌱 I’m currently learning ...Software Engineering 
 - 💞️ I’m looking to collaborate on ...coding clubs
 - 📫 Reach me ...via email at boazusher58@gmail.com 
